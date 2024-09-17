@@ -1,8 +1,8 @@
 // Array of products for the gallery
 const products = [
-    { name: 'Braided Wig', price: 50, image: 'wig1.jpg' },
-    { name: 'Curly Extensions', price: 30, image: 'extensions1.jpg' },
-    { name: 'Straight Hair Bundle', price: 70, image: 'bundle1.jpg' }
+    { name: 'Braided Wig', price: 50, image: 'Wig 1.jpg' },
+    { name: 'Curly Extensions', price: 30, image: 'Wig 2.jfif' },
+    { name: 'Straight Hair Bundle', price: 70, image: 'Wig 3.jfif' }
   ];
   
   // Display products in the gallery
