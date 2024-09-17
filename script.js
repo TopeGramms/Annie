@@ -46,7 +46,7 @@ const products = [
     message += `\nTotal: $${total}`;
   
     // Redirect to WhatsApp with message
-    const whatsappUrl = `https://wa.me/1234567890?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/+2348073562745?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   }
   
