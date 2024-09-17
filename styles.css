@@ -30,6 +30,9 @@ body {
     border: none;
     cursor: pointer;
   }
+  button:hover {
+    background-color: orangered;
+  }
 
   /* Style for text and email inputs */
 input[type="text"],
