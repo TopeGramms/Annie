@@ -61,7 +61,7 @@ textarea {
 input[type="text"]:hover,
 input[type="email"]:hover,
 textarea:hover {
-    border-color: #999;
+    border-color: orangered;
 }
 
 /* Focus effect */
